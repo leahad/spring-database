@@ -29,7 +29,7 @@ This method will run when the application starts.
 3.Create new objects inside the CommandLineRunner method.
 4.Use the save method from your repositories to persist objects in your database.
 
-You can see an exemple in the `BddAplication.java ` file.
+You can see an exemple in the `BddAplication.java` file.
 
 #### Source
 
