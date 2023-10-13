@@ -18,7 +18,7 @@
 
 ```java
 @Bean
-`public CommandLineRunner run() throws Exception {`
+public CommandLineRunner run() throws Exception {
     return (String[] args) -> {
         //create and save new objects here
     };
